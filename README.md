@@ -1,8 +1,9 @@
-Project: IMDb Movie Data Analysis (Power BI)
+Welcome to the Power BI Dashboard repository! This repository contains Power BI reports and dashboards that provide insightful visualizations and data analysis. The reports are designed to help in decision-making, performance tracking, and data-driven insights.
+Overview
+This repository contains Power BI reports and dashboards built using data from various sources. The dashboards are interactive and offer a range of features including filtering, drill-downs, and custom visualizations. The aim is to deliver actionable insights and support business analytics.
+Usage
+Once you have opened the reports in Power BI Desktop, you can:
 
-Utilized Power BI to analyze and visualize IMDb movie data, including ratings, genres, and box office performance.
-Imported and cleaned data from IMDb using Power Query for seamless integration into Power BI dashboards.
-Created interactive visualizations to display trends in movie ratings, top genres, and top-grossing films.
-Analyzed relationships between movie ratings, release years, and box office revenue to identify key patterns.
-Built insightful reports with filters and drill-down capabilities for detailed exploration of data.
-Delivered a user-friendly dashboard to help stakeholders make data-driven decisions about movie trends and audience preferences.
+Use filters to view specific data subsets.
+Drill down into categories to explore detailed insights.
+Export the reports to PDF or Excel for sharing and presentations.
